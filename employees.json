@@ -1,0 +1,26 @@
+[
+  {
+    "department": "Finance",
+    "employees": ["Alice Johnson", "Bob Smith", "Catherine Evans", "David Lee"]
+  },
+  {
+    "department": "IT",
+    "employees": ["Charlie Brown", "Dana White", "Eric Taylor", "Fiona Clark"]
+  },
+  {
+    "department": "HR",
+    "employees": ["Evelyn Davis", "Frank Moore", "Grace Hall", "Henry Wilson"]
+  },
+  {
+    "department": "Marketing",
+    "employees": ["Isabella Martinez", "Jack Thompson", "Karen Scott", "Liam Harris"]
+  },
+  {
+    "department": "Sales",
+    "employees": ["Mia Robinson", "Noah Lewis", "Olivia Walker", "Paul Adams"]
+  },
+  {
+    "department": "Customer Support",
+    "employees": ["Quinn Carter", "Rachel Allen", "Samuel Young", "Tina Perez"]
+  }
+]
